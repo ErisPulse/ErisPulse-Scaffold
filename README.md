@@ -20,7 +20,7 @@ epsdk scaffold
 
 ## 使用示例
 
-![](.github\assets\use.gif)
+![](.github/assets/use.gif)
 
 
 ## 项目结构
