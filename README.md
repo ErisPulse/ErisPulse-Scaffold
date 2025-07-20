@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-brightgreen)](https://www.python.org/)
-[![ErisPulse 2.1.6+](https://img.shields.io/badge/ErisPulse-2.1.6%2B-orange)](https://erispulse.dev)
+[![ErisPulse 2.1.6+](https://img.shields.io/badge/ErisPulse-2.1.6%2B-orange)](https://github.com/ErisPulse/ErisPulse)
 
 ErisPulse生态系统的项目脚手架生成工具，快速创建标准化的模块/CLI/适配器项目结构。
 
