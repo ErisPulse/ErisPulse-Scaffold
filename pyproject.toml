@@ -1,0 +1,20 @@
+[project]
+name = "ErisPulse-Scaffold"
+version = "0.1.0"
+description = "ErisPulse项目脚手架生成工具"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [ { name = "wsu2059q", email = "wsu2059@qq.com" } ]
+
+dependencies = [
+]
+
+[project.urls]
+homepage = "https://github.com/ErisPulse/ErisPulse-Scaffold"
+
+[project.scripts]
+ep-scaffold = "ErisPulseScaffold.cli:main"
+
+[project.entry-points."erispulse.cli"]
+scaffold = "ErisPulseScaffold:scaffold_register"
